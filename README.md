@@ -1,4 +1,4 @@
- i! i'm jasmine, a creative :)
+ hi! i'm jasmine, a creative :)
 
 <!---
 jsenes/jsenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
